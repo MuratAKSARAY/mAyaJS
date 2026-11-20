@@ -2,7 +2,7 @@
  * mAyaNet Javascript Library
  *
  * @category Library
- * @package  Get/Set cookies
+ * @package  Take photos, videos and detect plates
  * @author   Murat AKSARAY <web@murataksaray.com>
  * @license  http://www.gnu.org/copyleft/gpl.html GNU General Public License
  * @link     http://www.mayanets.com/
